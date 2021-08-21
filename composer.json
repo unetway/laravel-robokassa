@@ -1,0 +1,33 @@
+{
+  "name": "unetway/laravel-robokassa",
+  "description": "Пакет для работы с Робокассой в Laravel",
+  "keywords": [
+    "robokassa",
+    "recurrent",
+    "payment",
+    "laravel"
+  ],
+  "homepage": "https://github.com/unetway/laravel-robokassa",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cherepanov Ilya",
+      "email": "support@unetway.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "guzzlehttp/guzzle": "^6.3",
+    "ext-json": "*",
+    "ext-simplexml": "*",
+    "unetway/robokassa": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Unetway\\LaravelRobokassa\\": "src/"
+    }
+  }
+}
+
+
+
