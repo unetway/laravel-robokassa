@@ -11,7 +11,7 @@ return [
 
     'test_password1' => env('ROBOKASSA_TEST_PASSWORD1'),
 
-    'test_password2' => => env('ROBOKASSA_TEST_PASSWORD2'),
+    'test_password2' => env('ROBOKASSA_TEST_PASSWORD2'),
 
 	'hashType' => env('ROBOKASSA_HASH_TYPE', 'md5'),
 ];
