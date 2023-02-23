@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": ">=7.4",
-    "guzzlehttp/guzzle": "^6.3",
+    "guzzlehttp/guzzle": ">=6.3",
     "ext-json": "*",
     "ext-simplexml": "*",
     "unetway/robokassa": "*"
