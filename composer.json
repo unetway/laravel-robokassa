@@ -20,7 +20,7 @@
     "guzzlehttp/guzzle": ">=6.3",
     "ext-json": "*",
     "ext-simplexml": "*",
-    "unetway/robokassa": "*"
+    "MakarRodenko/robokassa": "*"
   },
   "autoload": {
     "psr-4": {
