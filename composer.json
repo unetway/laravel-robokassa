@@ -1,5 +1,5 @@
 {
-  "name": "unetway/laravel-robokassa",
+  "name": "MakarRodenko/laravel-robokassa",
   "description": "Пакет для работы с Робокассой в Laravel",
   "keywords": [
     "robokassa",
@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Unetway\\LaravelRobokassa\\": "src/"
+      "MakarRodenko\\LaravelRobokassa\\": "src/"
     }
   }
 }
