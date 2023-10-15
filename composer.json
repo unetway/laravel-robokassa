@@ -7,12 +7,12 @@
     "payment",
     "laravel"
   ],
-  "homepage": "https://github.com/unetway/laravel-robokassa",
+  "homepage": "https://github.com/makarrodenko/laravel-robokassa",
   "license": "MIT",
   "authors": [
     {
-      "name": "Cherepanov Ilya",
-      "email": "support@unetway.com"
+      "name": "Rodenko Makar",
+      "email": "Makar@ecltd.ru"
     }
   ],
   "require": {
