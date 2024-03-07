@@ -46,7 +46,7 @@ $robokassa = new Robokassa();
 $link = $robokassa->generateLink([
 'OutSum' => 123.45,
 'Description' => 'Описание',
-'InvId' => 7,
+'InvoiceID' => 7,
 ]);
 
 echo $link;
@@ -58,7 +58,7 @@ $link = $robokassa->generateLink([
 'OutSum' => 123.45,
 'Description' => 'Описание',
 'IncCurrLabel' => '',
-'InvId' => 7,
+'InvoiceID' => 7,
 'Culture' => 'ru',
 'Encoding' => 'UTF-8',
 'Email' => '',
